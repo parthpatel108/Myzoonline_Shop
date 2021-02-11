@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.logic.nibble.myzoonline.MainActivity">
+
+
+
+
+        <item
+            android:id="@+id/menu_change_password"
+            android:title="@string/text_menu_change_password"
+            android:icon="@drawable/ic_power_settings_new_24px"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/menu_change_mobile_number"
+            android:title="@string/text_menu_change_mobile_number"
+            android:icon="@drawable/ic_power_settings_new_24px"
+            app:showAsAction="never" />
+
+
+</menu>

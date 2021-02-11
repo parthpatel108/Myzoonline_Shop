@@ -1,0 +1,2 @@
+rootProject.name='Myzoonline'
+include ':app'

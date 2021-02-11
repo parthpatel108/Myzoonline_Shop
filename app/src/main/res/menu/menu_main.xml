@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.logic.nibble.myzoonline.MainActivity">
+
+
+
+
+        <item
+            android:id="@+id/logout"
+            android:title="@string/text_logout"
+            android:icon="@drawable/ic_power_settings_new_24px"
+            app:showAsAction="ifRoom" />
+
+
+</menu>

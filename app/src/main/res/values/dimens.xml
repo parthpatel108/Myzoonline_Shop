@@ -1,0 +1,16 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!--    Sweet alert dimensions : PP-->
+    <dimen name="alert_width">300dp</dimen>
+    <dimen name="common_circle_width">3dp</dimen>
+    <dimen name="progress_circle_radius">34dp</dimen>
+
+    <dimen name="custom_image_size">53dp</dimen>
+    <dimen name="buttons_stroke_width">0px</dimen>
+
+    <dimen name="activityPadding">16dp</dimen>
+    <dimen name="placeholderImage">60dp</dimen>
+    <dimen name="placeholderTextHeight">8dp</dimen>
+    <dimen name="padding_10">10dp</dimen>
+</resources>
